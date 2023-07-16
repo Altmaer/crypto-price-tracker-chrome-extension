@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Crypto price tracker",
 	"description": "Crypto price tracker in real-time",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
