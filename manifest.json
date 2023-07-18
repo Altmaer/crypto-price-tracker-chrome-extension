@@ -15,5 +15,5 @@
 			"512": "src/images/logo512.png"
     }
   },
-  "permissions": ["activeTab"]
+  "permissions": []
 }
